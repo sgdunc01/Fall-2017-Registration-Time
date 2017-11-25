@@ -1,0 +1,9 @@
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\bin\Debug\Prog2.exe.config
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\bin\Debug\Prog2.exe
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\bin\Debug\Prog2.pdb
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.csprojResolveAssemblyReference.cache
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.Form1.resources
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.Properties.Resources.resources
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.csproj.GenerateResource.Cache
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.exe
+C:\Users\sgdunc01\Documents\Visual Studio 2012\Projects\Prog2\Prog2\obj\Debug\Prog2.pdb
